@@ -1,0 +1,17 @@
+DChat Server
+Server that allows Chat clients to connect to make a chat room.
+Must have port forward port 9998(text chat) and port 9997(file transfer).
+Allows for both text chat and file transfer.
+Author: Dillon Johnson
+Version: 1.0 
+	-Basic Text Chat Messenger
+	-Allows for multiple number of users
+	-Keeps track of number of users in chat room
+	-Notifies users when some enters/leaves the chat room
+Version: 1.1
+	-Send username and chat message separate to get bold font username on client
+	-Timestamp for each event in server
+Version: 1.2
+	-Added File Transfer
+	-Server receives file from user and sends to all other users
+	-Server deletes file after it is sent to all users

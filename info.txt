@@ -1,0 +1,19 @@
+Chat client
+Connects to a ChatServer using the server's IP address.
+Allows for both text chat and file transfer.
+Author: Dillon Johnson
+Version 1.0
+	-Allows for any Username
+	-Connect to any server using the server's IP on port 9998
+	-Basic text chat with other users
+Version 1.1
+	-Bold username for easier reading
+	-Timestamp for each chat message
+Version 1.2
+	-Added in File Transfer (port 9997)
+Version 1.3
+	-Added new Nimbus style to UI (Java 6 or higher)
+	-Chat area now scales with the window size
+	-Added Frame Icon
+Version 1.3.1
+	-Added Max File Send Size of 50 MB
