@@ -12,6 +12,6 @@ To run:
 
 -Port forward Port 9998 (chat port) and Port 9997 (file transfer port) (Only needed if you are running the server)
 
--Run DChat.exe
+-Run DChat.exe (make sure you download the client folder, not just the DChat.exe)
 
 -Fill in your username and the server's IP address and connect
