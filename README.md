@@ -1,6 +1,6 @@
 # DChat
 
-Author: Dillon Johnson
+Author: Dillon Johnson (February 2015)
 
 A simple Java GUI chat and file transfer program that use the DChat server.
 
